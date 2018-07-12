@@ -38,7 +38,7 @@
 #endif
 
 #ifdef _DEBUG
-	#define _APP_NAME_2_(TYPE) TYPE("(デバッグ版)")
+	#define _APP_NAME_2_(TYPE) TYPE("(Debug)")
 #else
 	#define _APP_NAME_2_(TYPE) TYPE("")
 #endif
